@@ -1,4 +1,1 @@
-this is a readme,txt about creating a new branch is quick!
-hello!every one!
-creating a new branch is quick and simple.
-In feature1 use fast forward again!
+this is cleaning
